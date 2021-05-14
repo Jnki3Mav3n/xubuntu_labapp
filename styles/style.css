@@ -108,7 +108,7 @@ button {
     #ffcccc
   );
   animation-name: bounce;
-  animation-duration: 1s;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
 }
 
